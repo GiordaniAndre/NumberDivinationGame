@@ -19,7 +19,7 @@ Ensure you have Python installed on your machine. tkinter is included by default
 ### Run the Game
 1. Clone the repository or download the script.
 2. Open a terminal and run the following command:
-   'python guess_the_numbers.py'
+   ```python game.py```
 ## Dependencies
 - Python 3.x
 - tkinter (built-in with Python)
